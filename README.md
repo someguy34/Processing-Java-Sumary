@@ -1,2 +1,2 @@
-# Processing-Java-Sumary
+# Processing-Java-Summary
 Processing stuff.
